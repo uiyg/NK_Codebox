@@ -1,0 +1,1 @@
+{"name":"Local: 48_D","url":"d:\\Code\\c++\\牛科周赛\\48\\48_D.cpp","tests":[{"id":1721139254356,"input":"3\n2 3 2","output":"0"},{"id":1721139267337,"input":"4\n1 2 3 4","output":"2"},{"id":1721219011424,"input":"4\n3 2 4 3","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\c++\\牛科周赛\\48\\48_D.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 48_B","url":"d:\\Code\\c++\\牛科周赛\\48\\48_B.cpp","tests":[{"id":1720926396426,"input":"abca","output":"6"},{"id":1720927541031,"input":"acac","output":"5"},{"id":1720964648552,"input":"aabcb","output":"11"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\c++\\牛科周赛\\48\\48_B.cpp","group":"local","local":true}

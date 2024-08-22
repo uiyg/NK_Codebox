@@ -1,0 +1,1 @@
+{"name":"Local: 48_E","url":"d:\\Code\\c++\\牛科周赛\\48\\48_E.cpp","tests":[{"id":1721273999921,"input":"abca","output":"6"},{"id":1721274013023,"input":"acac","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\c++\\牛科周赛\\48\\48_E.cpp","group":"local","local":true}
