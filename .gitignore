@@ -4,3 +4,8 @@
 /text.exe
 /.vscode
 /.cph
+.vs/ProjectSettings.json
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+.vs/c++/v17/Browse.VC.db
+.vs/c++/v17/DocumentLayout.json
