@@ -2,5 +2,7 @@
   "files.associations": {
     "future": "cpp",
     "ostream": "cpp"
-  }
+  },
+  "editor.formatOnSave": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
 }

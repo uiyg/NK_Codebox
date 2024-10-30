@@ -49,5 +49,7 @@
     "thread": "cpp",
     "typeinfo": "cpp",
     "cstring": "cpp"
-  }
+  },
+   "editor.formatOnSave": false,
+   "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
