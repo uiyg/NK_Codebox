@@ -3,6 +3,6 @@
     "future": "cpp",
     "ostream": "cpp"
   },
-  "editor.formatOnSave": false,
+  "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
